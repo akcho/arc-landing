@@ -91,4 +91,9 @@ export default createGlobalStyle`
   p {
     margin-bottom: 2rem;
   }
+
+  @font-face {
+    font-family: "bard";
+    src: url("../static/fonts/bard/BarD.woff")   format("woff");
+  } 
 `;

@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gatsby Universal`,
-  siteTitleShort: `GatsbyU`,
-  siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://gu.fabianschultz.com`,
+  siteTitle: `Arc - Think in 3D`,
+  siteTitleShort: `arc`,
+  siteDescription: `A Los Angeles-based photogrammetry service.`,
+  siteUrl: `https://arcapture.co`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,

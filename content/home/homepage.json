@@ -2,18 +2,18 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
+    "title": "People",
+    "copy": "Recorded at parties and private shoots.",
     "image": "../images/gallery/react-context.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
+    "title": "Environments",
+    "copy": "Showcase your property listing in 3D.",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
+    "title": "Objects",
+    "copy": "Scan for films, video games, and VR/AR.",
     "image": "../images/gallery/intersection-observer.jpg"
   }]
 }
