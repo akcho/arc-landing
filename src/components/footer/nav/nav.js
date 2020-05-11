@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from './nav.css';
-import Icon from 'images/instagram3.svg';
+import Icon from 'images/instagram4.inline.svg';
 
 const Nav = () => (
   <Container>
